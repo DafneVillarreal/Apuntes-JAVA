@@ -13,8 +13,8 @@ public class dafne { //todo el programa estara dentro de una clase, incluso el m
 
 /*
 	en terminal seleccionaremos nuestro arcihvo como "javac <nombre de la clase>.java",
-	una vez realizado eso, java nos creara un nuevo archivo clase, baicots(?
-	para que java lo entienda y pueda ajecutarlo
+	una vez realizado eso, java nos creara un nuevo archivo clase, 
+	en lenguaje bytecode para que java pueda entenderlo y ejecutarlo
 
 	Para ejecutarlo en terminal y ver su funcionamiento bastara con poner
 	"java <nombre de la clase>"
