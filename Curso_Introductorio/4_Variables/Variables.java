@@ -1,4 +1,4 @@
-package basico;
+package Basico;
 
 /*
 *El curso se manejara con paquetes y archivos java class,
