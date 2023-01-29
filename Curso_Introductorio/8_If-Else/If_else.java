@@ -10,11 +10,18 @@ public class If_else {
         System.out.println ("Ingresa tu edad: ");
         Edad = Entrada.nextInt ();
         
-        if (Edad < 18) {
-            System.out.println ("Eres menor de edad");
+        if (Edad < 12) {
+            System.out.println ("Eres un niño");
+        }
+        else if (Edad < 18) {
+            System.out.println ("Eres un adolescente");
         }
         else {
-            System.out.println ("Eres mayor de edad");
+            System.out.println ("Eres un adulto");
         }
+        /*
+        Para agregar mas condiciones a un if basta con agregar los else if
+        y poner los casos deseados
+        */
     }
 }
