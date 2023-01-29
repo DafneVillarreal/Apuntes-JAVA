@@ -40,7 +40,7 @@ public class Switch {
             Resultado = "Domingo";
             break;
         
-            Default:
+            default:
             Resultado = "Número inválido";
         }
         
